@@ -2,7 +2,7 @@
   "name": "taxi-reservation",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "BEN YAZID Anass",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
